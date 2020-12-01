@@ -30,7 +30,7 @@
 
 ### 丙種メニュー
 
-- Lv1：JavaScript超基礎編
+- [Lv1：JavaScript超基礎編](./01_丙/JavaScript_01.md)
 - Lv2：JavaScript基礎編
 - Lv3：JavaScript発展編
 - Lv1：C#超基礎編
